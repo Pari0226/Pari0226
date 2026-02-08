@@ -70,7 +70,14 @@ Aspiring Software Engineer | AI + GenAI | NLP & LLM Enthusiast
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pari0226&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pari0226&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pari0226&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
